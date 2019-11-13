@@ -34,6 +34,7 @@ The platform facilitates the process of creating and executing visit contracts.
  * You can initiate a visit with a sitter, or join an open visit, effectively opening a channel between you and the sitter and instantiating a contract.
  * You negotiate the contract through the platform and then both jointly book the visit (sign the contract).
  * The visit occurs according to the negotiated terms.
+ * You leave a private review, visible only to the platform, after the pick-up. 
  * The next time you want to schedule a visit, you log back on.
 
  For a sitter, here's how it works:
