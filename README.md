@@ -41,7 +41,7 @@ The platform facilitates the process of creating and executing visit contracts.
  * You are given a reference link from someone you know, allowing you to join the platform
  * You create an account for you and any family members living with you.
  * You include an address and background check is done automatically on you and any others living in your house
- * You include photos and a wide variety of other information, including a bit of writing and lots of fact questions.
+ * You include photos and a wide variety of other information, including a bit of writing and lots of fact questions. Some information is kept private and not included on your profile.
  * You sign up for an in-home visit from a platform rep, who is just another platform member with a high reputation who earns credits by visiting new sitter homes.
  * You receive credits for a successful in-home visit.
  * After your in-home visit, you can create open visits or accept visit proposals from parents.
